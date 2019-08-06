@@ -11,7 +11,7 @@ I use it with Python 2.7.15, just replace  (or diff)
 the files in /usr/lib64/python2.7/site-packages/porthole/
 with the contents of this repo
 
-This files have modifications: 
+This files have been modified: 
 
 porthole/advancedemerge/advemerge.py
 
